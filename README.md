@@ -13,7 +13,7 @@ spring.data.mongodb:
 
 ## Arquivo de entrada
 
-O arquivo `./src/main/resources/lista-alunos.txt` contem os dados para a inserção no mongodb.
+Permancer com o arquivo `./src/main/resources/lista-alunos.txt` que contem os dados para a inserção no mongodb.
 
 ## Clonar o projeto
 

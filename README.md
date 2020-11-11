@@ -5,7 +5,6 @@
 - [Pré-requisito](#Pré-requisito)
 - [Configurar arquivo application.yml](#Configurar arquivo application.yml)
 - [Requisitos](#requisitos)
-- [Início rápido](#início rápido)
 - [Arquivo de entrada](#Arquivo de entrada)
 - [Clonar o projeto](#Clonar o projeto)
 

@@ -1,12 +1,4 @@
-# spring_batch-aluno
-
-## Índice
-
-- [Pré-requisito](#Pré-requisito)
-- [Configurar arquivo application.yml](#Configurar arquivo application.yml)
-- [Requisitos](#requisitos)
-- [Arquivo de entrada](#Arquivo de entrada)
-- [Clonar o projeto](#Clonar o projeto)
+# Projeto Batch Aluno - FIAP
 
 ## Pré-requisito
 

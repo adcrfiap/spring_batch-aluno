@@ -11,7 +11,7 @@ public class Aluno {
     private String id;
 
     private String nome;
-    private String ra;
+    private String rm;
     private String num_cartao;
 
     public String getId() {
@@ -30,12 +30,12 @@ public class Aluno {
         this.nome = nome;
     }
 
-    public String getRa() {
-        return ra;
+    public String getRm() {
+        return rm;
     }
 
-    public void setRa(String ra) {
-        this.ra = ra;
+    public void setRm(String rm) {
+        this.rm = rm;
     }
 
     public String getNum_cartao() {

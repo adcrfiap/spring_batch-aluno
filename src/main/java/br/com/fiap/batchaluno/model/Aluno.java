@@ -12,7 +12,7 @@ public class Aluno {
 
     private String nome;
     private String rm;
-    private String num_cartao;
+    private String numeroCartao;
 
     public String getId() {
         return id;
@@ -38,11 +38,11 @@ public class Aluno {
         this.rm = rm;
     }
 
-    public String getNum_cartao() {
-        return num_cartao;
+    public String getNumeroCartao() {
+        return numeroCartao;
     }
 
-    public void setNum_cartao(String num_cartao) {
-        this.num_cartao = num_cartao;
+    public void setNumeroCartao(String numeroCartao) {
+        this.numeroCartao = numeroCartao;
     }
 }

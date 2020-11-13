@@ -40,7 +40,7 @@ public class BatchAlunoApplication {
     public FixedLengthTokenizer fixedLengthTokenizer() {
         FixedLengthTokenizer tokenizer = new FixedLengthTokenizer();
 
-        tokenizer.setNames("nome", "num_cartao", "rm");
+        tokenizer.setNames("nome", "rm", "numeroCartao");
         tokenizer.setColumns(
             new Range(1, 41),
             new Range(42, 49),
